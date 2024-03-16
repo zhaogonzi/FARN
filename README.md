@@ -9,6 +9,9 @@ Dataset
 ===========
 The dataset consisted of 24,216 images from key US planes (including the fetal lumbosacral spine, facial region, four-chamber, abdomen, and craniocerebral planes) covering 37 key structures obtained during tertiary obstetric screening between 18 + 0 ∼ 22 + 6 gestational weeks.
 
+Annotation Example：
+![GitHub Logo](./data_example.jpg)
+
 ⭐  In the future, our team will consider releasing a large fetal ultrasound dataset to support research related to fetal ultrasound. 
 
 Results
