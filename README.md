@@ -9,7 +9,7 @@ Dataset
 ===========
 The dataset consisted of 24,216 images from key US planes (including the fetal lumbosacral spine, facial region, four-chamber, abdomen, and craniocerebral planes) covering 37 key structures obtained during tertiary obstetric screening between 18 + 0 ∼ 22 + 6 gestational weeks.
 
-&#9733; In the future, our team will consider releasing a large fetal ultrasound dataset to support research related to fetal ultrasound. 
+⭐  In the future, our team will consider releasing a large fetal ultrasound dataset to support research related to fetal ultrasound. 
 
 Results
 ===========
@@ -31,6 +31,18 @@ torchvision = 0.9.0
 opencv-python = 4.6.0
 ```
 
+❤️  Let's get started！
+
+```
+# Create a new conda environment named FARN with Python 3.7
+conda create -n FARN python=3.7
+
+# Activate the FARN environment
+conda activate FARN
+
+# Install the required Python packages listed in the requirements.txt file
+pip install -r requirements.txt
+```
 
 ## Traing process
 
