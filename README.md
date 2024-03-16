@@ -29,9 +29,6 @@ We used these packages/versions in the development of this project.
 PyTorch = 1.8.0
 torchvision = 0.9.0
 opencv-python = 4.6.0
-onnx = 1.8.1
-onnxruntime = 1.8.0
-onnx-simplifier = 0.3.5
 ```
 
 
