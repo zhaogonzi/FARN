@@ -3,7 +3,7 @@
 If you have a dataset directory, you could use os environment variable named `FARN_DATADIR`. Under this directory, FARN will look for datasets in the structure described below, if needed.
 ```
 $FARN_DATADIR/
-  COCO/
+  FARN/
 ```
 You can set the location for builtin datasets by
 ```shell
